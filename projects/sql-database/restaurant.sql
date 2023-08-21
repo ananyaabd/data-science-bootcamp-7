@@ -1,4 +1,4 @@
-# My frist SQL-database : Restaurant Project
+# SQL-Database : Restaurant Project
 
 -- open my database
 .open restaurant.db
