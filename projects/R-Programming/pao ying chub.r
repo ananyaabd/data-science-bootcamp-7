@@ -1,4 +1,4 @@
-# R-Programming : pao ying chub project
+# R-Programming : Pao Ying Chub Project
 
 win <- 0
 lose <- 0
