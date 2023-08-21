@@ -17,4 +17,4 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Essential Python for Data Analyst
 - Dashboard
 
-You can fine me on Likdin https://docs.google.com/document/d/19-5gioa7QjWGetYoK-wuTB_Q4ECKtDDCx4n0DmjFD5M/edit
+You can fine me on Linkdin https://docs.google.com/document/d/19-5gioa7QjWGetYoK-wuTB_Q4ECKtDDCx4n0DmjFD5M/edit
