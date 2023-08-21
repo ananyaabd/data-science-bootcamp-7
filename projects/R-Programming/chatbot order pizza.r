@@ -1,4 +1,4 @@
-# Chatbot Order Pizza Project
+# R-Programming : Chatbot Order Pizza Project
 
 pizza_menu <- c("Veggie Cheese", "Hawaiian Triple Cheese", "Chicken Triple Cheese", "Seafood & Hokkaido Cheese", "Bacon & Hokkaido Cheese")
 pizza_prices <- c(199, 219, 219, 299, 299)
