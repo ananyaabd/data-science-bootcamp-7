@@ -1,14 +1,14 @@
 # data-science-bootcamp-7
-My data portfolio for data analyst role
+This is my data portfolio from the data science bootcamp at DataRockie School.
 
-## what did I learn from this bootcamp
+## What are the skills and knowledge I gained from this bootcamp?
 
-I learn a lot of stuff related to data science skills. This bootcamp
+I gained a lot of knowledge about data science skills in this bootcamp, which has 10 sprints.
 
 - Intro to data science
 - Spreadsheets
 - Database (SQL)
-- R Programing
+- R Programming
 - Data Transformation
 - Data Visualization
 - Essential Statistics for Data Analyst
@@ -16,5 +16,3 @@ I learn a lot of stuff related to data science skills. This bootcamp
 - Python programming
 - Essential Python for Data Analyst
 - Dashboard
-
-You can fine me on Linkdin https://docs.google.com/document/d/19-5gioa7QjWGetYoK-wuTB_Q4ECKtDDCx4n0DmjFD5M/edit
